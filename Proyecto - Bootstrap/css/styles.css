@@ -1,0 +1,31 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding-top: 1em;
+}
+#j{
+    font: 200;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    padding-top: 2cm;
+}
+.g{
+    background-color: gray;
+    opacity: 50%;
+    color: black;
+}
+#carouselExampleIndicators{
+    padding-bottom: 2em;
+}
+.vodafone {
+    color: red;
+    font: 300;
+    padding-top: 3cm;
+    text-align: center;
+    padding-bottom: 3cm;
+}
+.mer{
+    padding-top: 3cm;
+    text-align: center;
+    padding-bottom: 3cm;
+}
